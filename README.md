@@ -1,4 +1,4 @@
-# DSND-Disaster-Response-Pipeline-Project
+# DSND-Starbucks_Capstone_Project
  
 ## Contents:
 
